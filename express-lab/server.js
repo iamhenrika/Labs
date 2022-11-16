@@ -81,7 +81,7 @@ app.get("/aboutTwo", (req, res) => {
     message:
       "24 Stars for 24 (Movie) Stars",
     content:
-      "Another member of the 'Big Five', Paramount Pictures is the second oldest Hollywood film studio in the United States and was home to some of the biggest stars of the 40s. A studio that paid recognition to the stars under it's banner, on it's logo. it was home to Clara Bow, Rudolph Valentino, Mary Pickford and Douglas Fairbanks, GLoria Swanson, Marlene Dietrich, Gary Cooper and Cecil B. DeMille.",
+      "Another member of the 'Big Five', Paramount Pictures is the second oldest Hollywood film studio in the United States and was home to some of the biggest stars of the 40s. A studio that paid recognition to the stars under its banner, on its logo. It was home to Clara Bow, Rudolph Valentino, Mary Pickford and Douglas Fairbanks, GLoria Swanson, Marlene Dietrich, Gary Cooper and Cecil B. DeMille.",
   });
 });
 
@@ -91,7 +91,7 @@ app.get("/Bob Hope", (req, res) => {
     message:
       "I have seen what a laugh can do. It can transform almost unbearable tears into something bearable, even hopeful.",
     content:
-      "Bob Hope stands up as the one of the funniest men to ever utter line. He was great at physical comedy, the could handle a punchline like no one else and listening to his Dean Martin Roast recently, I can safely say his humor stands the test of time. He goofy charm and sense of humor made he one the highest grossing stars of the 40s. If you don't remember his films as well, I'm sure you remember his devotion to the troops. No performer spent more time entertaining or spending time with our soilders. The all-around good guy and someone who'll make you laugh, no matter your mood. My favorite Hope film is They Got Me Covered. A completely bonkers detective spoof film that will have you laughing in tears.",
+      "Bob Hope stands up as the one of the funniest men to ever utter a line. He was great at physical comedy, he could handle a punchline like no one else and listening to his Dean Martin Roast recently, I can safely say his humor stands the test of time. His goofy charm and sense of humor made him one the highest grossing stars of the 40s. If you don't remember his films as well, I'm sure you remember his devotion to the troops. No performer spent more time entertaining or spending time with our soldiers. The all-around good guy and someone who'll make you laugh, no matter your mood. My favorite Hope film is They Got Me Covered. A completely bonkers detective spoof film that will have you laughing in tears.",
   });
 });
 
@@ -101,7 +101,7 @@ app.get("/Bing Crosby", (req, res) => {
     message:
       "Honestly, I think I've stretched a talent which is so thin it's almost transparent over a quite unbelievable term of years.",
     content:
-      "I can't mention Bob Hope and then not immediately mention Bing Crosby. The two were as big a deal as Astaire & Rogers or Hepburn & Tracy. Crosby was the straight man to Hope's banana and they made beautiful music together, sometimes literally. Hope was a huge star in his own right and proper dramatic actor when given the chance. Crosby also gave us the best selling single in history 'White Christmas.' If he had never made all those movies, released all those albums or appeared on those television shows, audiences would know him for that song and it's place in our collective hearts. My favorite Bing Crosby film is 'White Christmas', I mean it's really not Christmas until I get to rewatch it.",
+      "I can't mention Bob Hope and then not immediately mention Bing Crosby. The two were as big a deal as Astaire & Rogers or Hepburn & Tracy. Crosby was the straight man to Hope's banana and they made beautiful music together, sometimes literally. Hope was a huge star in his own right and proper dramatic actor when given the chance. Crosby also gave us the best selling single in history 'White Christmas.' If he had never made all those movies, released all those albums or appeared on those television shows, audiences would know him for that song and its place in our collective hearts. My favorite Bing Crosby film is 'White Christmas', I mean it's really not Christmas until I get to rewatch it.",
   });
 });
 
@@ -111,7 +111,7 @@ app.get("/Clara Bow", (req, res) => {
     message:
       "A sex symbol is a heavy load to carry when one is tired, hurt and bewildered.",
     content:
-      "The very first 'It' girl, Clara starred in a film called It and gave us more than just a phrase. Clara didn't just have a great name for a marquee, she also had a lovely face that today at least has become synonymous with Silent Screen Star. A star that was at several points the number box office draw in the world and someone that in one month received 45,000 fan letters. 0_0 She was a true star, who burned bright and fast but unlike other silent stars like Garbo, Crawford and Shearer, she wasn't able to maintain that stardom into talkies. The personification of the flapper life, she partied, drank, dated and danced to close to mental instability. My favorite Bow film is 'Wings.' Lol, it has to be my favorite, honestly, it's the only one I've seen. Silent films are harder to come by okay.",
+      "The very first 'It' girl, Clara, starred in a film called It and gave us more than just a phrase. Clara didn't just have a great name for a marquee, she also had a lovely face that today at least has become synonymous with Silent Screen Star. A star that was at several points the number box office draw in the world and someone that in one month received 45,000 fan letters. 0_0 She was a true star, who burned bright and fast but unlike other silent stars like Garbo, Crawford and Shearer, she wasn't able to maintain that stardom into talkies. The personification of the flapper life, she partied, drank, dated and danced close to mental instability. My favorite Bow film is 'Wings.' Lol, it has to be my favorite, honestly, it's the only one I've seen. Silent films are harder to come by okay.",
   });
 });
 
@@ -120,7 +120,7 @@ app.get("/Preston Sturges", (req, res) => {
     title: "",
     message: "The most important thing about my career is that I had one",
     content:
-      "My favorite director/screenwriter/producer is Mr Sturges, the very first writer, director, producer in fact, so I had to throw him in here. Sturges films are the height of comedic genius. Brilliant scripts that speak more to human conditions and connection than just on-screen chaos. He wrote funny snapshots of the world as it truly is and I mean, some of those plotlines were beyong outrageous for films that had to pass the Hayes Code. He wrote the way people truly felt and that's why he should be celebrated even today. My favorite Sturges film is 'The Miracle of Morgan's Creek.' One of my very favorite films, that again makes you wonder who he paid off to get it pass the commission.",
+      "My favorite director/screenwriter/producer is Mr Sturges, the very first writer, director, producer in fact, so I had to throw him in here. Sturges' films are the height of comedic genius. Brilliant scripts that speak more to human conditions and connection than just on-screen chaos. He wrote funny snapshots of the world as it truly is and I mean, some of those plotlines were beyond outrageous for films that had to pass the Hays Code. He wrote the way people truly felt and that's why he should be celebrated even today. My favorite Sturges film is 'The Miracle of Morgan's Creek.' One of my very favorite films, that again makes you wonder who he paid off to get it pass the commission.",
   });
 });
 
