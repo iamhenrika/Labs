@@ -1,0 +1,10 @@
+<head>
+#title#
+</head>
+<style>
+#style#
+</style>
+<body>
+<header>#message#</header>
+#content#
+</body>
