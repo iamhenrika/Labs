@@ -23,7 +23,6 @@ app.engine("template", (filePath, options, callback) => {
 app.set("views", "./views");
 // Configure the app (app.set)
 app.set("view engine", "template");
-// middleware
 
 app.get("/", function (req, res) {
   res.send("<h1>Let's Go to the Movies!</h1>");
