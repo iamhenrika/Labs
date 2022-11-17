@@ -1,5 +1,5 @@
 // 1. Build 10 Routes and a view engine, say anything you want
-// 2. Make 2 different templates, and use them both in different routes ( you can only have 1 view engine but multiple templates )
+// 2. Make 2 different templates, and use them both in different routes (you can only have 1 view engine but multiple templates)
 
 
 const express = require("express");
@@ -39,7 +39,7 @@ app.get("/aboutOne", (req, res) => {
   });
 });
 
-app.get("/Norma Shearer", (req, res) => {
+app.get("/normaShearer", (req, res) => {
   res.render("base", {
     title: "The Queen of the Lot",
     message: "An actress must never lose her ego, without it she has no talent",
@@ -48,7 +48,7 @@ app.get("/Norma Shearer", (req, res) => {
   });
 });
 
-app.get("/Joan Crawford", (req, res) => {
+app.get("/joanCrawford", (req, res) => {
   res.render("base", {
     title: "The Knockout",
     message: "I never go outside unless I look like Joan Crawford the movie star. If you want to see the girl next door, go next door.",
@@ -57,7 +57,7 @@ app.get("/Joan Crawford", (req, res) => {
   });
 });
 
-app.get("/Hedy Lamarr", (req, res) => {
+app.get("/hedyLamarr", (req, res) => {
   res.render("base", {
     title: "The Face", message:
       "I'd rather wear jewels in my hair than anywhere else. The face should have the advantage of this brilliance.",
@@ -66,7 +66,7 @@ app.get("/Hedy Lamarr", (req, res) => {
   });
 });
 
-app.get("/Clark Gable", (req, res) => {
+app.get("/clarkGable", (req, res) => {
   res.render("base", {
     title: "The King of the Box Office",
     message: "I know my limitations and I really am at my best in an open shirt, blue jeans and boots.",
@@ -85,7 +85,7 @@ app.get("/aboutTwo", (req, res) => {
   });
 });
 
-app.get("/Bob Hope", (req, res) => {
+app.get("/bobHope", (req, res) => {
   res.render("level", {
     title: "The Clown",
     message:
@@ -95,7 +95,7 @@ app.get("/Bob Hope", (req, res) => {
   });
 });
 
-app.get("/Bing Crosby", (req, res) => {
+app.get("/bingCrosby", (req, res) => {
   res.render("level", {
     title: "The Crooner",
     message:
@@ -105,7 +105,7 @@ app.get("/Bing Crosby", (req, res) => {
   });
 });
 
-app.get("/Clara Bow", (req, res) => {
+app.get("/claraBow", (req, res) => {
   res.render("level", {
     title: "The Original 'It' Girl",
     message:
@@ -115,7 +115,7 @@ app.get("/Clara Bow", (req, res) => {
   });
 });
 
-app.get("/Preston Sturges", (req, res) => {
+app.get("/prestonSturges", (req, res) => {
   res.render("level", {
     title: "",
     message: "The most important thing about my career is that I had one",
