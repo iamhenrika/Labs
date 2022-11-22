@@ -10,15 +10,15 @@ class VeggieIndex extends React.Component {
                     <a href="/vegetables/new">Create Vegetable</a>
                 </nav>
                 <ul>
-                    {vegetables.map((vegetables, i) => {
+                    {vegetables.map((vegetable, i) => {
                         return (
                             <li key={i}>
                                 The{' '}
-                                <a style={{ color: "blue" }} href={`/vegetables/${i}`}>
-                                    {vegetables.name}
+                                <a style={{ color: "blue" }} href={`/vegetables/${vegetable._id}`}>
+                                    {vegetable.name}
                                 </a>{' '}
-                                is {vegetables.color} <br></br>
-                                {vegetables.readyToEat
+                                is {vegetable.color} <br></br>
+                                {vegetable.readyToEat
                                     ? `It is ready to eat`
                                     : `It is not ready to eat`}
                                 <br />
